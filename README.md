@@ -1,0 +1,1 @@
+Elkészült munka CodeChallenge versenyhez.
