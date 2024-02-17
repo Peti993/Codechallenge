@@ -1,0 +1,15 @@
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\versenyproba1\versenyproba1\bin\Debug\net6.0\versenyproba1.exe
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\versenyproba1\versenyproba1\bin\Debug\net6.0\versenyproba1.deps.json
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\versenyproba1\versenyproba1\bin\Debug\net6.0\versenyproba1.runtimeconfig.json
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\versenyproba1\versenyproba1\bin\Debug\net6.0\versenyproba1.dll
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\versenyproba1\versenyproba1\bin\Debug\net6.0\versenyproba1.pdb
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\versenyproba1\versenyproba1\obj\Debug\net6.0\versenyproba1.csproj.AssemblyReference.cache
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\versenyproba1\versenyproba1\obj\Debug\net6.0\versenyproba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\versenyproba1\versenyproba1\obj\Debug\net6.0\versenyproba1.AssemblyInfoInputs.cache
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\versenyproba1\versenyproba1\obj\Debug\net6.0\versenyproba1.AssemblyInfo.cs
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\versenyproba1\versenyproba1\obj\Debug\net6.0\versenyproba1.csproj.CoreCompileInputs.cache
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\versenyproba1\versenyproba1\obj\Debug\net6.0\versenyproba1.dll
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\versenyproba1\versenyproba1\obj\Debug\net6.0\refint\versenyproba1.dll
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\versenyproba1\versenyproba1\obj\Debug\net6.0\versenyproba1.pdb
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\versenyproba1\versenyproba1\obj\Debug\net6.0\versenyproba1.genruntimeconfig.cache
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\versenyproba1\versenyproba1\obj\Debug\net6.0\ref\versenyproba1.dll
